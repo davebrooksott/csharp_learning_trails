@@ -1,0 +1,5 @@
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\Chapter06code\Chapter06code\Ch06Ex03\Ch06Ex03\bin\Debug\Ch06Ex03.exe
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\Chapter06code\Chapter06code\Ch06Ex03\Ch06Ex03\bin\Debug\Ch06Ex03.pdb
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\Chapter06code\Chapter06code\Ch06Ex03\Ch06Ex03\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\Chapter06code\Chapter06code\Ch06Ex03\Ch06Ex03\obj\x86\Debug\Ch06Ex03.exe
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\Chapter06code\Chapter06code\Ch06Ex03\Ch06Ex03\obj\x86\Debug\Ch06Ex03.pdb

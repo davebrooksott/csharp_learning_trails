@@ -1,0 +1,9 @@
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\chapter08Code\chapter08 Code\Ch08Ex01\Ch08Ex01\bin\Debug\Ch08Ex01.exe
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\chapter08Code\chapter08 Code\Ch08Ex01\Ch08Ex01\bin\Debug\Ch08Ex01.pdb
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\chapter08Code\chapter08 Code\Ch08Ex01\Ch08Ex01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\chapter08Code\chapter08 Code\Ch08Ex01\Ch08Ex01\obj\x86\Debug\Ch08Ex01.Form1.resources
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\chapter08Code\chapter08 Code\Ch08Ex01\Ch08Ex01\obj\x86\Debug\Ch08Ex01.Properties.Resources.resources
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\chapter08Code\chapter08 Code\Ch08Ex01\Ch08Ex01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\chapter08Code\chapter08 Code\Ch08Ex01\Ch08Ex01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\chapter08Code\chapter08 Code\Ch08Ex01\Ch08Ex01\obj\x86\Debug\Ch08Ex01.exe
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\chapter08Code\chapter08 Code\Ch08Ex01\Ch08Ex01\obj\x86\Debug\Ch08Ex01.pdb

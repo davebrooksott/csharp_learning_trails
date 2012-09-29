@@ -1,0 +1,5 @@
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\Chapter12code\Chapter12code\Ch12Ex01\Ch12Ex01\bin\Debug\Ch12Ex01.exe
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\Chapter12code\Chapter12code\Ch12Ex01\Ch12Ex01\bin\Debug\Ch12Ex01.pdb
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\Chapter12code\Chapter12code\Ch12Ex01\Ch12Ex01\obj\x86\Debug\Ch12Ex01.csprojResolveAssemblyReference.cache
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\Chapter12code\Chapter12code\Ch12Ex01\Ch12Ex01\obj\x86\Debug\Ch12Ex01.exe
+C:\Users\Dave Brooks\Documents\GitHub\learn_csharp\Beginning Visual C# 2010\Chapter12code\Chapter12code\Ch12Ex01\Ch12Ex01\obj\x86\Debug\Ch12Ex01.pdb
